@@ -1,3 +1,7 @@
+<div class="container" style="background: black;">
+				<a id="tamucc-logo" href="http://www.tamucc.edu/" target="_blank"><img src="http://gomexsi.tamucc.edu/wp-content/themes/gomexsi-wp/img/tamucc-logo.png" /></a>
+				<a id="gomexsi-logo" href="http://gomexsi.tamucc.edu/"><img src="http://gomexsi.tamucc.edu/wp-content/themes/gomexsi-wp/img/gomexsi-logo.png" /></a>
+			</div>
 workshop
 ========
 
