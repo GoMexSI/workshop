@@ -10,6 +10,6 @@ This repository contains material related to the GoMexSI workshop 3-5 Dec 2014 a
 * [Participants](../../wiki/participants)
 * [Agenda](../../wiki/agenda)
 * [Workshop Prep](../../wiki/prep)
-
+* [Cookbook](../../wiki/cookbook)
 
 
