@@ -11,5 +11,7 @@ This repository contains material related to the GoMexSI workshop 3-5 Dec 2014 a
 * [Agenda](../../wiki/agenda)
 * [Workshop Prep](../../wiki/prep)
 * [Cookbook](../../wiki/cookbook)
+* [R scripts](../../wiki/R-scripts)
+* [Cypher queries](../../wiki/Cypher-queries)
 
 
